@@ -10,7 +10,7 @@
 
 <img src="Repository-Assests/Cover.png" width="180" align="left" style="margin-right: 20px; margin-bottom: 20px;" alt="Banner">
 
-<h1>I Think in Systems. I Build in Products. I Write About Both.</h1>
+<b>I Think in Systems. I Build in Products. I Write About Both.</b>
 
 I make sense of complex products. Whether it's building B2B experiences that actually scale, or helping teams navigate AI integration without losing sight of the user — that's where I add value.
 
@@ -44,7 +44,7 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 
 ### 🛠️ **The Arsenal (Tech & Product Stack)**
 
-_A Senior Product Manager's toolkit needs to differ from the crowd. Deeply technical, AI-native, and strategy-focused._
+_A Product Manager's toolkit needs to differ from the crowd. Deeply technical, AI-native, and strategy-focused._
 
 **Product Strategy & Ops**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -69,7 +69,7 @@ _A Senior Product Manager's toolkit needs to differ from the crowd. Deeply techn
 
 ---
 
-### 📰 **Featured Writing: The Product Newsletter**
+### 📰 **Featured Newsletter: Gyanesh on Product**
 
 > **1000+ Product Managers** subscribe for unfiltered, grounded thinking on Product, AI, and Strategy.
 >
