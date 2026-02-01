@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="100%">
+<img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif" width="100%">
+<br />
+<img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 <br/>
