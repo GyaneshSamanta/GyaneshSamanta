@@ -1,109 +1,94 @@
-![Banner](Repository-Assests/Cover.png)
-
 <div align="center">
-
-# 👋 I Think in Systems. I Build in Products. I Write About Both.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanesh-samanta/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KgKCj14AAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.gyaneshsamanta@gmail.com)
-
+  <img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="100%">
 </div>
 
----
-
-## 🎯 What I Do
-
-I make sense of **complex products**. Whether it's building B2B experiences that actually scale, or helping teams navigate AI integration without losing sight of the user — that's where I add value.
-
-### 🔭 Right Now
+<br/>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-</div>
 
-- 🏢 **Building B2B product experiences at IBM** (from Q2'26)
-- 🔬 **Researching how AI reshapes the PM role** — spoiler: it's not about replacing you, it's about elevating what you build
+<img src="Repository-Assests/Cover.png" width="180" align="left" style="margin-right: 20px; margin-bottom: 20px;" alt="Banner">
 
-### 📚 Previously
+<h1>I Think in Systems. I Build in Products. I Write About Both.</h1>
 
-Built and scaled products in **competitive spaces** (e-commerce, Web3, ed-tech). Been in the rooms where teams panic about pivots, data quality crises, and AI roadmap chaos.
+I make sense of complex products. Whether it's building B2B experiences that actually scale, or helping teams navigate AI integration without losing sight of the user — that's where I add value.
 
----
+Right now, I'm **Building B2B product experiences at IBM (from Q2'26)** and researching how AI reshapes the PM role (spoiler: it's not about replacing you, it's about elevating what you build). Previously, I've built and scaled products in competitive spaces like e-commerce, Web3, and ed-tech. I've been in the rooms where teams panic about pivots, data quality crises, and AI roadmap chaos, and I know how to navigate them.
 
-## ✍️ What I Write About
+<br/>
 
-- **Product strategy** that sticks
-- **AI in realistic terms** (not hype)
-- How **behavioral science** actually changes user decisions
-- **Case studies** from the frontlines
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanesh-samanta/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.gyaneshsamanta@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KgKCj14AAAAJ&hl=en)
 
-> **1000+ PMs** subscribe to my newsletter for unfiltered, grounded thinking on product, AI, and strategy.
+<br clear="all"/>
 
 ---
 
-## 🏆 Achievements & Impact
+### 🚀 **Experience & Impact**
 
-<div align="center">
+_Building and scaling products in competitive spaces: E-commerce, Web3, Ed-tech & Enterprise AI._
 
-### 🎖️ 20+ Hackathon Wins
+Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 
-_Building products that solve real problems, fast._
-
-| Category              | Achievement                                                                                                                                                                    |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🏅 **Hackathons Won** | 20+ competitive wins                                                                                                                                                           |
-| 📊 **GitHub Stats**   | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) |
-| 🔥 **Streak**         | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GyaneshSamanta&theme=radical&hide_border=true)                                                         |
-| 💻 **Top Languages**  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyaneshSamanta&layout=compact&theme=radical&hide_border=true)                                      |
-
-</div>
-
----
-
-## 🤝 How to Get My Attention
-
-✅ **Bring a product problem** that hasn't been solved  
-✅ **Collaborate on research**  
-✅ **Build something together** at a hackathon  
-✅ **Share a case study** that actually challenged conventional wisdom
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-### 💼 For Collaboration Inquiries
-
-**Newsletter growth partnerships** | **Research discussions** | **Product collaboration**
-
-📧 **mail.gyaneshsamanta@gmail.com**
-
-_Otherwise, let's connect—I'm most responsive to thoughtful first messages._
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif" alt="Snake animation">
+<p align="left">
+  <a href="https://www.ibm.com"><img src="Repository-Assests/IBM.png" height="35" alt="IBM" title="IBM - Enterprise AI"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://snapdeal.com"><img src="Repository-Assests/Snapdeal.png" height="35" alt="Snapdeal" title="Snapdeal - E-commerce Scale"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wall.app"><img src="Repository-Assests/Wall.app.png" height="35" alt="Wall.app" title="Wall.app - Web3 Communities"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tealfeed.com"><img src="Repository-Assests/Tealfeed.png" height="35" alt="Tealfeed" title="Tealfeed - Creator Economy"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ischoolconnect.com"><img src="Repository-Assests/ischoolconnect.png" height="35" alt="iSchoolConnect" title="iSchoolConnect - EdTech"></a>
 </p>
 
-![Contribution Graph](https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake-dark.svg)
+---
 
-</div>
+### 🛠️ **The Arsenal (Tech & Product Stack)**
+
+_A Senior Product Manager's toolkit needs to differ from the crowd. Deeply technical, AI-native, and strategy-focused._
+
+**Product Strategy & Ops**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+
+**AI & Research Intelligence**
+![Antigravity](https://img.shields.io/badge/Antigravity-High_Agency_Research-7B61FF?style=flat-square)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-Deep_Analysis-4285F4?style=flat-square&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-Search_Logics-22B3A6?style=flat-square)
+![OpenAI](https://img.shields.io/badge/ChatGPT-Advanced_Reasoning-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Artifact_Creation-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Data, Engineering & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL_&_BigQuery-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-Behavioral_Analytics-221E53?style=flat-square&logo=amplitude&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<div align="center">
+### 📰 **Featured Writing: The Product Newsletter**
 
-### 💡 _"Product thinking isn't about features. It's about seeing the system, understanding the behavior, and building what actually works."_
+> **1000+ Product Managers** subscribe for unfiltered, grounded thinking on Product, AI, and Strategy.
+>
+> _I write about Product strategy that sticks, AI in realistic terms (not hype), and how behavioral science actually changes user decisions._
 
-![Profile Views](https://komarev.com/ghpvc/?username=GyaneshSamanta&color=blueviolet&style=for-the-badge)
+<a href="https://www.linkedin.com/newsletters/6979386586404651008/">
+<img src="https://img.shields.io/badge/Read_The_Latest_Issue_Here-Click_to_Open-FF6B6B?style=for-the-badge&logo=substack&logoColor=white&labelColor=111"/>
+</a>
+
+---
+
+### 🤝 **Collaboration**
+
+_How to get my attention:_
+
+1.  Bring a **product problem** that hasn't been solved.
+2.  Collaborate on **deep-dive research**.
+3.  Build something together at a **hackathon** (20+ wins & counting).
+4.  Share a **case study** that actually challenged conventional wisdom.
+
+For collaboration inquiries, newsletter growth partnerships, or research discussions:
+📧 **[mail.gyaneshsamanta@gmail.com](mailto:mail.gyaneshsamanta@gmail.com)**
 
 </div>
