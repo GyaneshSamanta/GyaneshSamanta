@@ -53,11 +53,11 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 | Project | What It Does | Award |
 |---|---|---|
 | [**CrossDrop**](https://github.com/GyaneshSamanta/EthIndia-23-CrossDrop) | Cross-chain airdrop targeting for L2 ecosystems on Arbitrum | ![Winner](https://img.shields.io/badge/🏆_Winner-ETHIndia_2023-FFD700?style=flat-square) |
-| [**HopeVid**](https://github.com/GyaneshSamanta/HopeVid-HackRx1.0) | Preventive health web app with telemedicine & COVID-19 tracking (Bajaj Finserv) | ![Runner Up](https://img.shields.io/badge/🥉_2nd_Runner--Up-HackRx_1.0-C0C0C0?style=flat-square) |
-| [**Data Hackfest**](https://github.com/GyaneshSamanta/Data-Hackfest) | Interactive data viz dashboard built for Team Rhythm | ![Best Viz](https://img.shields.io/badge/🏅_Best_Data_Viz-Dataday_Grind_III_·_MLH-CD7F32?style=flat-square) |
-| [**BingeControl**](https://github.com/GyaneshSamanta/Guilt-free-binge) | Chrome extension to master watch-time with behavioural nudges (Team SebastianVettel) | ![Hackathon](https://img.shields.io/badge/🏆_Finalist-Thehacktrical--2-FF6B6B?style=flat-square) |
-| [**RAAI**](https://github.com/GyaneshSamanta/RAAI) | Responsible & Accountable AI - framework for auditing LLM biases | ![Research](https://img.shields.io/badge/🛡️_Winner-AI_Safety_Hack-00C875?style=flat-square) |
-| [**OnboardNow**](https://github.com/GyaneshSamanta/OnboardNow) | Seamless onboarding experience for SaaS teams | ![Hackathon](https://img.shields.io/badge/🥇_1st_Place-Product_Hunt_Hack-DA552F?style=flat-square) |
+| [**HopeVid**](https://github.com/GyaneshSamanta/HopeVid-HackRx1.0) | Preventive health web app with telemedicine & COVID-19 tracking | ![Runner Up](https://img.shields.io/badge/🥉_2nd_Runner--Up-HackRx_1.0-C0C0C0?style=flat-square) |
+| [**Wheelie**](https://github.com/aaishikasb/Hack-Empowered) | Creative hardware-software solution for accessibility (First Overall) | ![Winner](https://img.shields.io/badge/🥇_1st_Overall-Hack_Empowered-FFD700?style=flat-square) |
+| [**Cycloninator**](https://github.com/GyaneshSamanta/Hacknado) | Personal compact weather station using Linode Cloud (Second Overall) | ![Award](https://img.shields.io/badge/🥈_2nd_Overall-Hacknado-silver?style=flat-square) |
+| [**MoodSings**](https://github.com/GyaneshSamanta/Hacking-Birthday-Bash) | ML-powered mood-based music recommender (Second Overall) | ![Award](https://img.shields.io/badge/🥈_2nd_Overall-MLH_Birthday_Bash-silver?style=flat-square) |
+| [**Nami, Maps!**](https://github.com/GyaneshSamanta/AhoyHacks) | Interactive map-based quest system (Winner - X Marks The Spot) | ![Winner](https://img.shields.io/badge/🏆_Winner-AhoyHacks-FFD700?style=flat-square) |
 | [**Nanodrones IIT-B**](https://github.com/GyaneshSamanta/Nanodrones-IIT-B) | Autonomous drone control & path optimisation — IIT Bombay research collab | ![Research](https://img.shields.io/badge/🔬_Research-IIT_Bombay-003087?style=flat-square) |
 
 </details>
