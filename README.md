@@ -58,7 +58,6 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 | [**Cycloninator**](https://github.com/GyaneshSamanta/Hacknado) | Personal compact weather station using Linode Cloud (Second Overall) | ![Award](https://img.shields.io/badge/🥈_2nd_Overall-Hacknado-silver?style=flat-square) |
 | [**MoodSings**](https://github.com/GyaneshSamanta/Hacking-Birthday-Bash) | ML-powered mood-based music recommender (Second Overall) | ![Award](https://img.shields.io/badge/🥈_2nd_Overall-MLH_Birthday_Bash-silver?style=flat-square) |
 | [**Nami, Maps!**](https://github.com/GyaneshSamanta/AhoyHacks) | Interactive map-based quest system (Winner - X Marks The Spot) | ![Winner](https://img.shields.io/badge/🏆_Winner-AhoyHacks-FFD700?style=flat-square) |
-| [**Nanodrones IIT-B**](https://github.com/GyaneshSamanta/Nanodrones-IIT-B) | Autonomous drone control & path optimisation — IIT Bombay research collab | ![Research](https://img.shields.io/badge/🔬_Research-IIT_Bombay-003087?style=flat-square) |
 
 </details>
 
@@ -71,7 +70,6 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 |---|---|---|
 | [**NotebookLM-for-Windows**](https://github.com/GyaneshSamanta/NotebookLM-for-Windows) | Standalone Windows desktop app wrapping Google NotebookLM — Ghost Mode, Split View & hotkeys | ![Downloads](https://img.shields.io/github/downloads/GyaneshSamanta/NotebookLM-for-Windows/total?style=flat-square&color=0EAD69&label=downloads) |
 | [**Gemini-for-Windows**](https://github.com/GyaneshSamanta/Gemini-for-Windows) | Native Electron wrapper for Google Gemini on Windows with multi-view modes | ![Downloads](https://img.shields.io/github/downloads/GyaneshSamanta/Gemini-for-Windows/total?style=flat-square&color=4285F4&label=downloads) |
-| [**FloatlyGIF Browser Extension**](https://github.com/GyaneshSamanta/FloatlyGIF-browser-extension) | Chrome extension that floats animated GIFs over any webpage | — |
 
 </details>
 
