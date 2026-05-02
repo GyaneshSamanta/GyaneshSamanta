@@ -10,7 +10,9 @@
 
 <img src="Repository-Assests/Cover.png" width="180" align="left" style="margin-right: 20px; margin-bottom: 20px;" alt="Banner">
 
-<b>I Think in Systems. I Build in Products. I Write About Both.</b>
+# Hi, I'm Gyanesh 👋
+
+**I Think in Systems. I Build in Products. I Write About Both.**
 
 I make sense of complex products. Whether it's building B2B experiences that actually scale, or helping teams navigate AI integration without losing sight of the user — that's where I add value.
 
@@ -39,6 +41,37 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
   <a href="https://wall.app"><img src="Repository-Assests/Wall.app.png" height="35" alt="Wall.app" title="Wall.app - Web3 Communities"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tealfeed.com"><img src="Repository-Assests/Tealfeed.png" height="35" alt="Tealfeed" title="Tealfeed - Creator Economy"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ischoolconnect.com"><img src="Repository-Assests/ischoolconnect.png" height="35" alt="iSchoolConnect" title="iSchoolConnect - EdTech"></a>
+</p>
+
+---
+
+### 🧰 **Tech & Tools I Reach For**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
+
+---
+
+### 📊 **GitHub, By the Numbers**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gyanesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyaneshSamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyaneshSamanta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GyaneshSamanta&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -102,5 +135,7 @@ For collaboration inquiries, newsletter growth partnerships, or research discuss
 <p align="center">
 <a href="https://cal.com/gyanesh-samanta/15min"><img src="https://img.shields.io/badge/📅_Book_a_Call-cal.com%2Fgyanesh--samanta-0EAD69?style=for-the-badge&logoColor=white"/></a>
 </p>
+
+<p align="center"><sub>✨ Thanks for stopping by — feel free to explore the pinned repos or drop a line.</sub></p>
 
 </div>
