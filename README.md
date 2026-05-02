@@ -65,13 +65,19 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 ### 📊 **GitHub, By the Numbers**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gyanesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyaneshSamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=GyaneshSamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyaneshSamanta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=GyaneshSamanta&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyaneshSamanta&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GyaneshSamanta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+  </a>
 </p>
 
 ---
