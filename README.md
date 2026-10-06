@@ -10,7 +10,7 @@
 
 <img src="Repository-Assests/Cover.png" width="180" align="left" style="margin-right: 20px; margin-bottom: 20px;" alt="Banner">
 
-# Hi, I'm Gyanesh 👋
+### Hi, I'm Gyanesh 👋
 
 **I Think in Systems. I Build in Products. I Write About Both.**
 
@@ -29,31 +29,10 @@ Right now, I'm **Building B2B product experiences at IBM (from Q2'26)** and rese
 
 ---
 
-### 🚀 **Experience & Impact**
-
-_Building and scaling products in competitive spaces: E-commerce, Web3, Ed-tech & Enterprise AI._
-
-Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
+### 🚀 **Current role: Platform Product manager, Company: IBM**
 
 <p align="center">
   <a href="https://www.ibm.com"><img src="Repository-Assests/IBM.png" height="35" alt="IBM" title="IBM - Enterprise AI"></a>
-</p>
-
----
-
-### 🧰 **Tech & Tools I Reach For**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ---
