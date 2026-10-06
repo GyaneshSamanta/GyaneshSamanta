@@ -1,4 +1,7 @@
 <div align="center">
+
+### 🐍 **GitHub Contributions**
+
 <img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif" width="100%">
 <br />
 <img src="https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -30,10 +33,6 @@ Right now, I'm **Building B2B product experiences at IBM (from Q2'26)** and rese
 ---
 
 ### 🚀 **Current role: Platform Product manager, Company: IBM**
-
-<p align="center">
-  <a href="https://www.ibm.com"><img src="Repository-Assests/IBM.png" height="35" alt="IBM" title="IBM - Enterprise AI"></a>
-</p>
 
 ---
 
