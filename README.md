@@ -36,11 +36,7 @@ _Building and scaling products in competitive spaces: E-commerce, Web3, Ed-tech 
 Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 
 <p align="center">
-  <a href="https://www.ibm.com"><img src="Repository-Assests/IBM.png" height="35" alt="IBM" title="IBM - Enterprise AI"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://snapdeal.com"><img src="Repository-Assests/Snapdeal.png" height="35" alt="Snapdeal" title="Snapdeal - E-commerce Scale"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wall.app"><img src="Repository-Assests/Wall.app.png" height="35" alt="Wall.app" title="Wall.app - Web3 Communities"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tealfeed.com"><img src="Repository-Assests/Tealfeed.png" height="35" alt="Tealfeed" title="Tealfeed - Creator Economy"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ischoolconnect.com"><img src="Repository-Assests/ischoolconnect.png" height="35" alt="iSchoolConnect" title="iSchoolConnect - EdTech"></a>
+  <a href="https://www.ibm.com"><img src="Repository-Assests/IBM.png" height="35" alt="IBM" title="IBM - Enterprise AI"></a>
 </p>
 
 ---
@@ -58,26 +54,6 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
-
----
-
-### 📊 **GitHub, By the Numbers**
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=GyaneshSamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyaneshSamanta&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GyaneshSamanta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-  </a>
 </p>
 
 ---
@@ -105,10 +81,10 @@ Startups, Scale-ups, or Enterprise — I've seen the lifecycle.
 
 <br/>
 
-| Project | What It Does | Downloads |
-|---|---|---|
-| [**NotebookLM-for-Windows**](https://github.com/GyaneshSamanta/NotebookLM-for-Windows) | Standalone Windows desktop app wrapping Google NotebookLM — Ghost Mode, Split View & hotkeys | ![Downloads](https://img.shields.io/github/downloads/GyaneshSamanta/NotebookLM-for-Windows/total?style=flat-square&color=0EAD69&label=downloads) |
-| [**Gemini-for-Windows**](https://github.com/GyaneshSamanta/Gemini-for-Windows) | Native Electron wrapper for Google Gemini on Windows with multi-view modes | ![Downloads](https://img.shields.io/github/downloads/GyaneshSamanta/Gemini-for-Windows/total?style=flat-square&color=4285F4&label=downloads) |
+| Project | What It Does |
+|---|---|
+| [**NotebookLM-for-Windows**](https://github.com/GyaneshSamanta/NotebookLM-for-Windows) | Standalone Windows desktop app wrapping Google NotebookLM — Ghost Mode, Split View & hotkeys |
+| [**Gemini-for-Windows**](https://github.com/GyaneshSamanta/Gemini-for-Windows) | Native Electron wrapper for Google Gemini on Windows with multi-view modes |
 
 </details>
 
